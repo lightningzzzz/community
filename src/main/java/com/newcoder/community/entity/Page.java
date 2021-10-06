@@ -82,6 +82,7 @@ public class Page {
     {
         int to=current+2;
         int total=getTotal();
+
         return to>total ? total:to;
     }
 
