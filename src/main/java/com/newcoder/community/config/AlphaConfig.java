@@ -1,4 +1,4 @@
-package com.newcoder.community.configpage;
+package com.newcoder.community.config;
 
 
 import org.springframework.context.annotation.Bean;
